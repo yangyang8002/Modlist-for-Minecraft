@@ -1,3 +1,6 @@
+- en [English](README.md)
+- zh_CN [简体中文](readme/README.zh_CN.md)
+  
 # Modlist Scanner for Minecraft
 
 A Python tool to scan Minecraft mod directories and generate a clean JSON list of mods with their IDs, names, and versions.
