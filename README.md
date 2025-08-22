@@ -85,6 +85,9 @@ The scanner:
 
 ## Troubleshooting
 
+### Known Problems
+1.  Please batch-replace both the word “#mandatory” and the backslash “\” with nothing (i.e., delete them).
+
 ### Common Issues
 1. **Permission errors**: Run the script as administrator/root if scanning protected directories
 2. **Corrupted mod files**: Try re-downloading any mods that cause errors
